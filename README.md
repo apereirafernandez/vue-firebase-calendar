@@ -1,3 +1,5 @@
+![Screenshot_2020-08-18_20-11-22](https://user-images.githubusercontent.com/60707377/90577516-1eb56a00-e18f-11ea-89d9-67f369fca460.png)
+
 # vue-calendar
 
 ## Project setup
